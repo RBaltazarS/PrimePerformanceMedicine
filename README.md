@@ -1,2 +1,2 @@
-# PrimePerformanceMedicine-
+# PrimePerformanceMedicine
 Prime Performance Medicine
